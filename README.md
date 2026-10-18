@@ -26,6 +26,12 @@ I'm a BSCS student passionate about **AI automation, workflow development, and p
 
 To develop reliable AI automation solutions that help businesses save time, reduce repetitive work, and improve their processes.
 
+### 💼 Hire Me on Fiverr
+
+Looking for AI automation and n8n workflow solutions?
+
+👉 [**Hire Me on Fiverr 🚀**](https://www.fiverr.com/s/zAAjWEo)
+
 ### 🤝 Let's Connect
 
 Feel free to explore my repositories and follow my journey as I build and improve real-world projects.
